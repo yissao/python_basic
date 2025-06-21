@@ -1,0 +1,6 @@
+Issao, consultoreste metodo SUBSTITUI o texto no arquivoIssao, consultor
+este metodo SUBSTITUI o texto no arquivo
+Issao, consultor
+este metodo SUBSTITUI o texto no arquivo
+
+Teste de adição de linha
