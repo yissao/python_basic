@@ -1,3 +1,4 @@
+.\.venv\Scripts\activate
 git pull para atualizar !!!!
 
 # Como usar o Git e Github na prática
