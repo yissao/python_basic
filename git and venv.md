@@ -18,6 +18,20 @@ echo 'venv' > .gitignore # Add venv to .gitignore
 git add .
 git commit -m 'initial commit'
 git push
+-------------------------------------------
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+
+pip freeze > requirements.txt # Freeze packages to text file
+    python -m pip freeze > requirements.txt # funcionou com este comando
+deactivate # Deactivate venv
+git init # Initialize repo
+echo '.venv' > .gitignore # Add venv to .gitignore
+git add .
+git commit -m 'initial commit'
+git remote add origin https://github.com/yissao/convertEpub.git
+git branch -M main
+git push -u origin main
 ```
 
 ## Why should I care about virtual environments?
