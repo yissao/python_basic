@@ -3,7 +3,7 @@ import re
 # Configuração
 arquivo_entrada = 'legendas.txt'
 arquivo_saida = 'legendas_com_links.txt'
-link_base = 'https://www.youtube.com/watch?v=pUG7_03G_Ac?t='
+link_base = 'https://youtu.be/pUG7_03G_Ac?t='
 
 # Função para converter timestamp m:ss para segundos
 def converter_para_segundos(timestamp):
@@ -24,7 +24,7 @@ for linha in linhas:
     if match:
         tempo = match.group(1)
         segundos = converter_para_segundos(tempo)
-        nova_linha = f"{link_base}{segundos} "
+        nova_linha = f"[{tempo}]({link_base}{segundos})" #gerar 'mascara' de linkk \({tempo}\)
         linhas_convertidas.append(nova_linha)
     else:
         linhas_convertidas.append(linha)
