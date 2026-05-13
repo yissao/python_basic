@@ -3,7 +3,7 @@ import re
 # Configuração
 arquivo_entrada = 'legendas.txt'
 arquivo_saida = 'legendas_com_links.txt'
-link_base = 'https://youtu.be/pUG7_03G_Ac?t='
+link_base = 'https://youtu.be/Y66uMiInbnQ?t='
 
 # Função para converter timestamp m:ss para segundos
 def converter_para_segundos(timestamp):

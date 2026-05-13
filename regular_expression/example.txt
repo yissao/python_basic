@@ -1,0 +1,4 @@
+This is a line about Python programming.
+Another line, without the word.
+python is versatile.
+Final line with Python.

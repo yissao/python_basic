@@ -1,640 +1,626 @@
-## 2 types of ChatGPT users
-
 0:00
-You might’ve seen Google, Amazon, and Shopify say that AI usage at work is
-
-0:05
-now a baseline expectation, and everyone is scrambling to futureproof themselves
-
-0:10
-and keep up with the exponential change happening every single day.
-
-0:14
-And we all face the problem of: "Okay, I’ve learned this, but now
-
-0:17
-ChatGPT rolls out a new model—and everything I learned can now be done with a click of a button."
-
-0:22
-So how do I keep up?
-
+There's an ancient secret that separates those who learn from those who master. And today you'll discover why most
+0:06
+people never get beyond the beginner level in anything they attempt in life. Have you ever noticed how some people
+0:12
+master any subject they set their mind to? They learn an instrument in months. They master a new language in a year.
+0:18
+They build businesses from scratch while others spend forever trying to figure things out. And you know what many
 0:24
-How do I know which tools are useful and which ones are just gimmicks?
-
-0:29
-As a framework thinker—because you're on this side
-
+people think? Oh, these people are talented. This guy was born with a gift for this task. You've probably heard
 0:31
-of the internet—we’re looking for that 80/20 way of understanding how we can
-
+someone say this kind of thing. Many people use this excuse to stop trying.
 0:36
-incorporate AI into our knowledge work so we stay sane and stand out at work.
-
-0:41
-It’s not about fancy syntax or the symbols you have to use.
-
-0:44
-(Though if you want the basics, here they are—take a screenshot.)
-
-0:47
-It’s also not about:
-
+Some people think I don't have the gift, so it's impossible for me to master this subject. And that's the biggest lie
+0:43
+anyone can tell themselves. Now, do you know what people who master anything in a short time have in common? What they
 0:49
-"Do I use ChatGPT or Claude? Which one’s better? Should I use both? Should I use all of them?"
-
-0:54
-Those things don’t matter.
-
+have is something that you were never taught in school, in college, in any online course you've ever purchased. In
 0:56
-What matters is how you use AI to help you improve the signal among all the noise.
-
+feudal Japan, there was a system of apprenticeship so powerful that it transformed common peasants into lethal
 1:03
-Where people get tripped up is this fake notion that AI is just
-
-1:07
-about efficiency—so everything needs to be quick.
-
-1:10
-Here’s what I mean:
-
-1:11
-We currently see two types of people when it comes to using LLMs.
-
-1:15
-There are those who put 10 words in and get 1,000 words out.
-
-1:18
-They think that’s an efficient use of their time—things come out in seconds,
-
+warriors, mediocre artisans into masters whose work lasted centuries. This system
+1:09
+had nothing to do with intelligence or natural talent. It had everything to do with understanding the three invisible
+1:16
+stages that separate the amateur from the master. They called this system shuhari. And when you understand how it
 1:23
-and they can move on to the next task.
-
-1:24
-Then there are those who put 1,000 words in and get 1,000 words back.
-
-1:28
-On the surface, that might not sound great. You might think, “Well, I could’ve just
-
-1:31
-written those 1,000 words myself.” But the result you get from ChatGPT
-
-1:36
-can be of much higher quality than what you can write on your own in the same time.
-
-1:42
-Most knowledge workers aren’t using AI this way.
-
-## A knowledge worker's leverage
-
-1:45
-People over-obsess about the concept of time. “I have this task—I need to get it done.”
-
-1:51
-But as a knowledge worker, your leverage doesn’t come from time.
-
-1:54
-You're not being paid by the hour. Your value is in the quality of
-
-1:59
-the idea, and how far you can take something that others can’t even see.
-
-2:03
-The fundamental of any company comes down to differentiation.
-
-2:07
-How does your company differentiate from competitors?
-
-2:09
-How do you, as an employee, differentiate yourself from someone with similar skills?
-
-2:13
-So don’t think about time—think about quality of output.
-
-2:18
-I also talked about this in another video, where I said:
-
-2:21
-You can use AI to increase the quality of your input
-
-2:24
-in order to improve the quality of your output.
-
-2:27
-99% of people are stuck in this 10-words-in, 1,000-words-out level.
-
-2:33
-You see two extremes:
-
+works, you stop being that person who starts a thousand things and finishes none. You become someone who masters
+1:29
+what they want when they want. But it comes at a price. Learning this system
+1:34
+will require you to accept something your ego will hate to hear. Before I show you this complete system, I invite
+1:41
+you to subscribe to the channel, like it below, and tell me in the comments, what skill do you most want to master in your
+1:47
+life? Guitar, programming, a new language? Feel free to comment.
+1:52
+I love reading and interacting with you in the comments. Now, back to the video.
+1:58
+Chapter 1, The Lost Apprentice. The story I'm about to tell you took place in feudal Japan. A young man named
+2:05
+Yamato had a dream that consumed his every thought to become a samurai. He
+2:11
+wasn't born into a samurai family. He had no lineage, no name, nothing but an
+2:16
+obsession that burned within him like fire. While other village boys accepted their fates as farmers and merchants,
+2:23
+Yamato spent hours watching the samurai as they passed by on the road. The way
+2:28
+they moved, the discipline in their gaze, the respect they commanded without saying a word. He wanted this more than
 2:35
-Experts who really know their stuff—and when they use ChatGPT, they go,
-
-2:40
-“The quality of this is terrible. It’s a waste of my time. I might as well write it myself.”
-
-2:46
-But they’re not using ChatGPT the right way.
-
-2:49
-Then there’s the other side of the coin: “I don’t care about the quality. Let me
-
-2:54
-put in 10 words, get 1,000 back, check the box, and move on to the next thing.”
-
-2:58
-Neither is a long-term strategy, especially if you're a knowledge worker.
-
-## ChatGPT is not a source for answer
-
-3:04
-Most people look at ChatGPT as a source for answers,
-
-3:09
-but what the top 1% do is see it as a way to refine the problem.
-
-3:17
-Einstein famously said: “If I had an hour to work
-
-3:19
-on a problem, I’d spend 55 minutes on the problem and 5 minutes on the solution.”
-
-3:24
-Most of us don't do that, we do exactly the opposite.
-
-3:27
-I recently did a guest lecture at a university.
-
-3:31
-I saw how smart these students are—fast learners, great ideas, very articulate.
-
-3:40
-The professor brought me in to talk about mental models, precisely because the students
-
+he wanted to breathe. At 16, Yamato picked up a wooden sword and began
+2:41
+training alone. He woke before sunrise and practiced the moves he'd seen the samurai perform. horizontal strikes,
+2:48
+vertical strikes, thrusts, hours and hours every day. 6 months later, he
+2:53
+hadn't improved at all. His movements felt off. His body wasn't responding the way he imagined. The sword felt too
+3:00
+heavy, too clumsy. The more he practiced, the more frustrated he became. He tried to study strategy by
+3:08
+reading ancient manuscripts about famous battles. He memorized the names of all the classical techniques. He learned
+3:15
+about Bushidto, the samurai code of honor. He had no shortage of knowledge.
+3:20
+But when he picked up the sword, it was as if all that knowledge evaporated. A whole year passed. Yamata remained just
+3:28
+a village boy with a wooden sword and an impossible dream until the day
+3:33
+everything changed. Chapter 2. The meeting. One afternoon, Yamato was
+3:39
+practicing near the forest when he heard a voice behind him. Your feet are wrong.
 3:44
-are excellent at solving problems —but they don’t have experience coming up with problems,
-
-3:51
-identifying or reframing them to get to the right answer.
-
-3:57
-We see this at work too.
-
-3:59
-The boss gives us the problem, and we jump in to solve it without thinking:
-
-4:05
-“Wait, is this the right problem?”
-
+Your posture is wrong. Your breathing is wrong. Everything you're doing is wrong.
+3:50
+He turned and saw an older man, gray hair tied back, deep scars on his face,
+3:55
+and two swords strapped to his waist. A true samurai. Yamato felt shame burn his
+4:01
+face. I I'm trying to learn on my own, sir. I have no master. The samurai
 4:07
-Most employees are good students.
-
-4:09
-Now that AI is here, how you stand out as a knowledge worker
-
-4:13
-is not in how quickly you can give a good answer—
-
-4:17
-but in how well you can define, reframe, and align everyone on the right problem.
-
-4:24
-This is such good news.
-
+walked around him, observing. How long have you been practicing?
+4:12
+One year, sir. And did anything improve? Silence. The answer was obvious. The
+4:20
+samurai took the wooden sword from Yamato's hand. You know what your problem is. You think you're training,
 4:26
-Because AI doesn’t have your experience, judgment, or intuition—
-
+but what you're doing is cementing mistakes. Every failed rep is teaching your body how to fail better. Those
 4:32
-all of which you've built over years.
-
-4:34
-So knowing where the problem is , how to phrase it,
-
-4:37
-and how to extract value from AI tools like ChatGPT is key.
-
-## 3 Frameworks for Refining the Problem
-
-4:42
-Let me show you the three requisites for refining a problem.
-
-4:45
-Then we’ll use them in ChatGPT to go from noise to signal, so you don’t get drowned out
-
-4:53
-by everything people are saying—because you’ll know what you’re looking for.
-
-4:58
-The 3 things to look for when refining a problem:
-
-5:01
-Number one, The Assumptions These are usually left unsaid, and when you bring them to the surface,
-
+words cut deeper than any sword. Yamato had spent a whole year getting worse.
+4:38
+Sir, Yamato spoke, his voice breaking. How do I do it right then? I've read every text I can find. I've studied the
+4:44
+strategies. I've memorized the moves. That's exactly your problem, the samurai
+4:50
+interrupted. You tried to build a castle from the roof up. You studied strategy before mastering posture. You tried to
+4:57
+innovate before imitating. You skipped the only thing that matters, the path.
+5:02
+The samurai looked Yamato straight in the eye. There is a path to mastery that has three stages. You must traverse each
 5:09
-it becomes a lot easier to figure out what is actually the problem.
-
-5:13
-The second one is The Five Whys. The consulting way of going from one level to the next,
-
-5:21
-go from superficial to something a lot fundamental. And then the third one is.
-
-5:24
-And then the third one is.
-
-5:29
-The Alternatives that we usually think in one narrow laser-focused way, but that prevents us
-
+one. You cannot skip. You cannot rush. If you try, you will spend your entire
+5:15
+life being mediocre in everything you touch. And which way is that? Yamato asked. Shuhari the samurai replied. Shu.
+5:22
+Obey. Hutb break. Right. Let go. Three stages, one destination. True mastery.
+5:28
+Yamato was impressed. Please teach me. The samurai was silent for a long moment. Then he nodded. tomorrow at dawn
 5:37
-from considering other alternatives. And when we're thinking about the problem,
-
-5:40
-potentially reframing it, redefining it, we want to know what are the alternatives.
-
-5:47
-So let me show you what this means in Chat GPT.
-
-5:51
-Alright, before I show you, I want to just quickly mention the dictation tool
-
-5:56
-on chat. GPT is so accurate, 99% accurate. So if you haven't been using this to type,
-
-6:03
-highly recommend you do it because it helps you get into the mood of. Having a conversation with
-
-6:09
-chat, GPT, and this is where you turn the 10 words to a thousand words into a thousand
-
-6:14
-words for a thousand words because you get to do that back and forth, that iteration.
-
-6:18
-Let me show you. Hello, it’s Vicky.
-
-6:24
-Now, the only annoying thing is it sometimes uses
-
-6:28
-the most common spellings, so it misses words like my name.
-
-6:34
-Another tool I use is called Wispr Flow.
-
-6:38
-It’s also a dictation tool, but it works everywhere, not just in ChatGPT.
-
-6:42
-Shout out to Terri for introducing me to this.
-
-6:46
-I now use it to dictate everything.
-
+and prepare yourself because the first stage will destroy everything you think you know about learning. Chapter 3. Shu,
+5:46
+the death of the ego. The adorn arrived. Yamato was waiting when the samurai
+5:52
+appeared in the clearing. Today begins Shu, the master said. At this stage, you don't think, you don't
+5:59
+question, you don't improvise. You obey. You copy. You repeat exactly as I show
+6:05
+you. Not an inch of deviation. The samurai assumed a stance. Stay like
+6:11
+this. Yamato imitated. The master adjusted his foot 2 cm to the left. He
+6:17
+moved his hip a degree. He raised his shoulder a fraction. Now breathe. 3
+6:22
+seconds in through your nose. 2 seconds holding it. 4 seconds out through your mouth. They stayed in that position for
+6:30
+10 minutes just breathing. Yamato's legs burned. His mind screamed that this was
+6:35
+a waste of time. "Master," he finally said. "When are we going to practice real punches?" "The samurai turned his
+6:43
+head slowly. You think posture is boring? You think breathing is a waste of time? That's why you'll never be a
+6:49
+samurai. A true warrior understands that mastery is built in millimeters, not
 6:54
-I’ll put the link down below if you want to check it out—highly recommend it.
-
-6:58
-Let me use the example of my guest lecture. The problem that the prof, uh,
-
-7:03
-shared with me was I. Share mental models with them because the students are so good at taking
-
-7:10
-a problem and giving it the best answer they can, but they're not great at dealing with uncertainty,
-
-7:16
-complexity when things are not known and when they are dealing with risk,
-
-7:22
-how can they think through it when not all the information is there?
-
-7:27
-Let’s try it.
-
-7:27
-I’ll give ChatGPT some context and then use the three frameworks to dig further into the problem.
-
-7:28
-So let's give this a try. I'll give some context to chat GPT so it knows what's going on,
-
-7:33
-and then we'll use the three frameworks to see how we can go further with this problem.
-
-7:40
- I'm giving a guest lecture to university students on how to use mental models to navigate complexity
-
-7:47
-and deal with uncertainty. Uh, this group of students are smart. They are quick to learn. They,
-
-7:55
-a lot of them are honor students, but the problem they face is that as they're studying in finance
-
-8:02
-and risk management in the real world, they won't have predefined problems in the real world.
-
-8:09
-They have to think short term and long term where things are uncertain. Things are unpredictable. So
-
-8:16
-how can. I introduce to them mental models so that they have the tools to be able to think clearly,
-
-8:24
-even when things are uncertain, even when they don't know the answer. Now,
-
-8:29
-I hope you can help me better understand the problem that the students are facing.
-
-8:38
-Alright, let's put this in and see what Chat GPT comes back with first.
-
-8:45
-All right. They're trained on the academic mind. Uh, they're entering a world that
-
+kilome." Yamato swallowed his words. "Shu isn't about being interesting," the master
+7:00
+continued. It's about obeying until your body understands what your mind can't yet. Every technique you'll learn in the
+7:07
+years to come depends on this posture. This breathing these fundamentals you
+7:13
+think are boring. Weeks pasture. Breathing. Basic movements repeated a
+7:19
+thousand times. No jewels. No advanced techniques. Just the basics repeated.
+7:25
+Adnauseium. Yamato's mind struggled with this every day. This is too slow. I could be
+7:31
+learning real techniques. This is a waste of time. But something was changing, something he couldn't see, but
+7:39
+could feel. His movements began to flow without conscious effort. The posture that had previously been painful now
+7:45
+felt natural. The breathing he had to force now happened on its own. One day,
+7:51
+3 months later, the master demonstrated a basic horizontal strike. A thousand
+7:56
+times, he said, exactly as I did it. Not faster, not slower, not harder,
+8:01
+identical. Yamato spent the entire week practicing that single strike, a
+8:06
+thousand repetitions a day. On the fourth day, something extraordinary happened. He was in the middle of strike
+8:13
+number 400 when his body executed the movement perfectly, without any mental command, as if the sword knew the way on
+8:20
+its own. "Did you feel it?" the master asked, watching from afar. Yamato nodded
+8:26
+speechless. This is shu. When the technique enters the body so deeply that
+8:31
+the mind no longer needs to be present. But most people never get here because they think repetition is for the weak.
+8:37
+They think they are too smart to practice the basics a thousand times. A neuroscientist at the University of
+8:43
+Tokyo who has been studying motor learning for 18 years discovered something revolutionary.
 8:50
-rewards adaptive minds. Okay, that's pretty good. And the key problem they face is not a
-
-8:55
-lack of intelligence, but, uh, but it doesn't have a, but there's no lack of intelligence.
-
-9:05
-It's the over-reliance on the environment where the right answer is no. Okay, great.
-
-9:10
-So chat, GPT goes on to break down some things and tell me, okay, these are the things that perhaps
-
-9:18
-we can share. Great. Uh, but what I wanted to do is, before getting into all of this,
-
+When you repeat a specific movement 300 to 500 times, neurons in the cerebellum
+8:56
+begin to create an automated pattern. After 1,000 correct repetitions, the
+9:01
+pattern becomes unconscious. The skill literally migrates from the conscious mind to the brain's automatic system.
+9:09
+But if you change the movement before 300 repetitions, the pattern never forms. You remain forever in conscious
+9:15
+mode, which is slow, tiring, and errorprone. Chapter 4. The eternal student trap. 6
 9:23
-I wanted to refine the problem first. So let's talk about some assumptions.
-
-## Framework 1: List hidden assumptions
-
-9:31
-We are assuming the mental models are great tools to help them deal with complexity,
-
-9:37
-but there are a lot of unspoken assumptions that exist. When we
-
-9:41
-talk about that. Can you help list out 10 assumptions that these students might
-
+months of Shu passed. Yamato now mastered 12 basic techniques so thoroughly that he could perform them in
+9:30
+his sleep. Literally, one night, his master woke him up by surprise and asked
+9:35
+him to perform the vertical strike. Yamato's body executed it perfectly. But
+9:40
+Yamato began to notice something that bothered him. He saw other practitioners, some even with more
 9:46
-not know because they're probably not exposed to mental models at this stage.
-
-9:54
-Let's see what chat GPT comes up with.
-
-10:01
-Ooh, so good, right? Mental models are not answers. They are lenses. You're already
-
-10:07
-using mental models, you just don't know it. I love this and this is actually how I started the
-
-10:13
-lecture with is I gave them the $5 challenge. If you don't know what I'm talking about,
-
+training experience, who knew hundreds of techniques. They knew every Carter.
+9:52
+They could name every ancient master. But when he observed them in real combat, something was missing. They knew
+9:59
+the movements, but the movements did not live in them. Master, Yamato asked one
+10:04
+morning, "Why do some warriors know so many techniques, but fight worse than I, who only know 12?" The samurai smiled
+10:12
+for the first time in months. Finally, you asked the right question. These warriors live in what I call the eternal
 10:18
-I talked about it way back in this video here,  and I show them, Hey, you already have mental
-
+students hell. They collect techniques like children collect toys. They learn something new before mastering the last.
 10:25
-models on how to make money, how to, how to understand the value of time of work.
-
-10:31
- So, uh, it's great to be able to articulate the assumptions so that we can meet our audience
-
-10:39
-wherever it is they are. Mental models are not universal; they're situational.
-
+They read about a thousand strategies, but never internalize a single one. They
+10:30
+confuse knowledge with mastery. But knowledge is just having the map. Mastery is having walked the territory
+10:37
+so many times that you no longer need the map. The master walked to a tree.
+10:42
+Shu gave you the foundations. You obeyed blindly. You didn't question. You didn't improvise. You just repeated until the
 10:49
-Interesting. I would reword this, but alright. It's helpful to have a first
-
-10:53
-draft. The difference between simplifying, dumbing it down. Also something we talked
-
-11:00
-about in the actual guest lecture I gave as well, because everyone always worry, especially people
-
-11:07
-who. Love to think deeply, like, oh my gosh. But if we simplify, isn't it oversimplifying?
-
-11:16
-Well, there is a line and just like we're saying, right, how do we figure out signal
-
-11:21
-from noise? We are simplifying, but we don't want to dumb things down. So as
-
-11:26
-you can see already with just one prompt, we got 10 assumptions. Now the key here is. You
-
+techniques became part of you. And now he paused. Now you are ready to break.
+10:55
+Yamato frowned. Break. Break what? Everything I taught you. Chapter 5. Ha.
+11:04
+The dangerous deliverance. In the shoe stage, you became a perfect copy of me. The master explained, "You
+11:11
+do exactly what I do, the way I do it. That gave you the foundation. But if you
+11:17
+stop at that, you'll never be a true warrior. You'll just be my shadow." The
+11:22
+samurai drew a circle on the ground. Shu is this circle. These are the limits I
+11:27
+have placed on you. Now comes the ha stage where you break this circle. But be careful. Most people confuse ha with
 11:35
-don't stop here. Right? As you saw me go through them, some of them I already like as they are.
-
-11:40
-Some of them I want to tweak, and what I can
-
-11:43
-do is continue to have a conversation about the things that I want to tweak,
-
-11:47
-and I'll give it direction as to where to go. Okay. So that is framework number one, right?
-
-11:55
-Getting chat GPT to give you the assumptions. Okay. So now what we are going to do is. Now
-
-12:02
-based on these assumptions, can you also help me go five levels deep as to why the students
-
-## Framework 2: Use the 5 Whys
-
+rebellion. They break the limits not because they have mastered it but because they are too lazy to master it.
+11:41
+Ha is not about rejecting what you've learned. It's about understanding the wise behind each technique so deeply
+11:48
+that you can begin to adapt them. You can combine them. You can modify them.
+11:53
+But it only works if Shu has been complete. That afternoon for the first time in 6
+11:59
+months the master brought another instructor to the clearing. a warrior from a different school with a
+12:05
+completely different style. For the next year, the master said, "You will train
 12:10
-are not naturally thinking in this way? Use the five whys and dig deep as to what is
-
-12:19
-the fundamental reason for them not thinking in this way so that we can better structure
-
-12:25
-the guest lectures to help them use mental models and shift their thinking behavior.
-
-12:33
-Let's see.
-
-12:45
-You're doing exactly what you're teaching. Reframing the problem, correct? Hmm. Alright.
-
-12:53
-Why? Number one? Because they haven't been taught to use them. Okay. Because their
-
-12:56
-learning environment rewards correctness, not framing. Yeah. We got that far. Because
-
-13:02
-uncertainty feels like failure, not opportunity. Okay. This is already getting interesting, right?
-
-13:09
-That this point of, if I don't know, that means I'm incompetent,
-
-13:15
-is so crucial to understand. Alright. And this is why if you've ever worked with me
-
+with him, too. You will learn techniques that contradict everything I've taught you. His stance is different. His
+12:16
+strikes are different. His philosophy is different." Yamato was confused. "But if
+12:22
+I learn another style, won't it mess up everything you taught me? If Shu wasn't deep enough, yes, it will mess
+12:29
+everything up and you will become a mediocre fighter with no identity. But if Shu was complete, and he was, you
+12:36
+will do something extraordinary. You will begin to see the universal principles that live beneath all styles.
+12:43
+And so began the Ha internship. Yamato spent his mornings with his original master, his afternoons with his second
+12:49
+instructor. The styles were so different that at first his mind would short circuit trying to switch between them.
+12:57
+The first master taught low posture, economical movements, and patient waiting. The second master taught high
+13:03
+posture, explosive movements, and aggressive attack, everything contradicted each other. But after 3
+13:10
+months, something began to happen. Yamato began to realize that beneath the
+13:16
+superficial differences, both masters were teaching the same thing. How to move energy through the body
 13:22
-or attended any of my workshops, you know I play games. It's exactly to tackle this
-
+efficiently. How to read the opponent. How to be present in the moment. The
 13:28
-because uncertainty is not at all failure. And actually we, by playing games can learn better.
-
-13:35
-No. So I love the way it's phrased here though. I want to explore that more.
-
-13:41
-Alright. Ooh. Because they're protecting their identity as smart students. Right. I,
-
-13:48
-I'm sure a lot of people are getting goosebumps looking at this one, right? Even when we are at
-
-13:53
-work, we still have that identity so deeply ingrained in ourselves, right?
-
+techniques were different. The principles were identical. You're beginning to see. His original master
+13:34
+said when he noticed the change in Yamato's eyes. Shu taught you the forms.
+13:39
+Ha is teaching you the principles. When you understand the principles, the forms
+13:45
+become tools, not prisons. A year in the harst stage completely changed Yamato's
+13:51
+fighting style. He was no longer a perfect copy of either master. He had begun combining techniques in ways
 13:57
-I was a good student, so how come I'm not perform, I'm not the,
-
-14:00
-'A' performer in the team. Uh, this is so good now because they were trained to optimize for
-
-14:06
-performing not judgment. This is actually, so this is a light bulb moment for me in the sense
-
+neither of them had. One morning during training, Yamato blocked an attack using
+14:02
+the first master's stance, but countered with the second's explosive attack. The
+14:07
+movement was so natural, so fluid that he didn't even realize he'd created something new until he saw the
 14:14
-that How do I phrase this? You know, all of us are focused or over focusing on performance,
-
+expressions on the two instructors faces. What was that? The second master asked. I I don't know. It just felt
+14:21
+right. The two masters looked at each other and smiled. Ha, it is complete.
 14:26
-uh, but having that judgment in the end, being able to say, okay, out of all of these options,
-
-14:33
-I think this one's the best one to go with, even though I don't have perfect answer,
-
-14:37
-is what separates the top for performers from the top doers?
-
-14:42
-Right, like people who are good at doing operate like Chad GPT says in low complexity environments,
-
-14:49
-okay. Again, right? Just by using these frameworks already, we're going so much
-
-14:55
-further with this idea, uh, with this problem. And we're starting to see that actually, you know,
-
-15:01
-mental models are tools, but they need a shift in mindset in order to be able to do these things.
-
-## Framework 3: Explore Alternatives
-
-15:09
-So very exciting. The next thing is about alternatives. So let me ask Chat GPT. This is
-
-15:18
-a fantastic analysis, but can you give me some alternatives, as in what else could be true?
-
-15:30
-Let's see.
-
-15:34
-Yes, we are using inversion good identification. Now I do have to, uh, say that I use chat GPT lot,
-
-15:41
-so it knows me, it knows my frameworks, it knows my mental models. That's why it's
-
-15:47
-giving these, uh, inversion and red teaming. So if your chat DBT doesn't do that yet, um. It's,
-
-15:54
-it's not a problem. It is just because it doesn't have the memory of talking about frameworks a lot.
-
-16:00
-And I talk a lot about frameworks in my Chat GPT. Alright, here we go.
-
-16:06
-Oh my gosh, I love this one already. They do use mental models, but lack the vocabulary to
-
+The first master declared, "You are no longer blindly obeying, but you are not breaking in rebellion either. You are
+14:34
+adapting wisely. You understand the wise." But then the master said something Yamato didn't expect. And this
+14:40
+is where 99% of practitioners stop. They arrive at Har and think they're already
+14:45
+masters. They can adapt techniques. They can combine styles. They can create variations. And they're proud of it. But
+14:53
+HA is still a prison. You're still stuck with the techniques you've learned, even if you can combine them in creative
+14:59
+ways. You've become a skilled artist, but not a true master. There is a third
+15:05
+stage, the final stage. And only one person in a thousand gets there because it requires something most people are
+15:11
+unwilling to do. Forget everything. Chapter 6. Ry, the silent transcendence.
+15:19
+Re is the stage where you don't use techniques, the master explained. The techniques use you. Or rather, there are
+15:25
+no more techniques. There is only pure response to the moment. Yamato frowned.
+15:31
+How can I fight without techniques? You'll understand, the master said. But first, a story. When I was young like
+15:38
+you, I spent 40 years studying the sword. I learned 300 techniques. I
+15:43
+mastered 12 different styles. I became known as one of the best swordsmen in the region. One day, an old master came
+15:50
+to challenge me. He must have been 80 years old. He could barely walk straight. I accepted the duel, thinking
+15:56
+it would be polite. It would be quick. The master paused, the weight of memory visible on his face. He defeated me in
+16:03
+three moves. And you know what confused me most? He didn't use any techniques I recognized. It wasn't style A, B, or C.
 16:11
-name them. And so a, a few of you have who have attended my workshops or worked with
-
-## Naming mental models = power
-
-16:18
-me in my accelerator mentioned this. Right. It's that, oh, now I know what to name it.
-
+It was nothing and everything at the same time. Like water, formless, yet
+16:17
+perfectly adapted to each moment. Then he explained to me, "Young man, you fight well. You know many techniques,
 16:23
-And because I can name it, it becomes something easily recalled and I can
-
-16:27
-build on it. Before it was just, this was my process. I wasn't really aware of it,
-
-16:32
-but now that I'm aware of it, I can do so much more with it. Fantastic. Alright. Uh,
-
-16:39
-they resist mental models because they associate them with consulting jargon or elite circles.
-
-16:44
-Um, not real, not super relevant for this group is my hunch, because they are in finance,
-
-16:51
-they're in risk management, but, okay, I'll keep that in mind. Um,
-
-16:56
-they never seen real world ambiguity modeled by authority figures or, uh, this is. So
-
-17:09
-interesting. Okay, this is something I don't know now. Now I'm just getting so excited.
-
-17:13
-I am veering off not just about talking about reframing problems,
-
+but you are still fighting. I don't fight anymore. I just respond." When you
+16:28
+attack, my body already knows the answer before my mind processes it. There is no
+16:34
+decision. There is no technique. Just natural movement. Yamato tried to understand. But how do I get to this
+16:41
+stage? Time, practice, and most importantly, you need to stop trying.
+16:49
+The next 5 years were the most frustrating of Yamato's life. The master no longer taught him anything new. He
+16:55
+just made Yamato fight every day against different opponents, different styles,
+17:01
+different levels. At first, Yamato was still thinking about techniques. Now I
+17:06
+use the first master's block. Now I combine it with the second master's counterattack.
+17:11
+His mind was constantly categorizing, deciding, choosing. But slowly over the years, something
 17:18
-but also the things that I think every knowledge worker should know, which is
-
-17:23
-when it comes to articulating complexity. Everyone thinks that smart people are just
-
-## Articulation takes practice, not just intelligence
-
-17:29
-naturally articulate because they think fast. But actually as I keep on saying this, right, the
-
-17:34
-best authors when they give interviews is not because they can think on the spot.
-
+began to dissolve. The labels on techniques began to disappear. He stopped thinking, "Now I do technique X
+17:25
+and started just doing it." One day during a particularly intense fight
+17:30
+against three opponents simultaneously something broke or rather something opened. Yamato didn't remember making
 17:38
-It's because they spent years. Writing out these ideas,
-
-17:42
-refining them. So by the time they're sitting in that interviewing seat,
-
-17:46
-they've already had years of thinking about this. So of course they can pull out anecdotes and
-
+any decisions during that fight. His body simply flowed. He blocked, attacked, spun, dodged, all without a
+17:45
+single conscious thought. It was like watching someone else fight using his body. When he finished, all three
 17:51
-ideas and concepts really easily. Right. They put in the work. It is just, we don't see it.
-
-17:58
-Ooh, this is another really good one and a reason why people give up. So, okay. I'm not,
-
-18:06
-I'm getting too overexcited, but you get my point, right? Just by not focusing on the
-
-## Reframing problems leads to better AI answers
-
-18:13
-answer, but focusing on understanding, refining, and reframing the problem,
-
-18:19
-you will get so much more depth out of Che GPT. It really is a good student.
-
-18:25
-Depending on what kind of question you throw at it, the answers they give will be very different.
-
-18:30
-if you got excited by this, I know you will enjoy my 17-minute AI workflow on how to improve your
-
-18:37
-input with AI so that your output improves. So check that out and I'll see you in the next video.
+opponents were on the ground. Yamato was breathing calmly, effortlessly, and he
+17:56
+couldn't recall any specific techniques he had used. His master was watching from afar, a rare smile on his face.
+18:04
+"You finally stopped fighting," he said. "But I I fought three people." "No, your body" responded. There was no you in
+18:11
+there making decisions. There was just pure response to the moment. "This is Ry. You have transcended the techniques.
+18:17
+They are now so deeply a part of you that you don't even know they are there." A Kyoto University researcher
+18:23
+who has been studying embodied cognition for 22 years explains when experts reach
+18:29
+the highest level of mastery something fascinating happens in the brain. Activity in the prefrontal cortex the
+18:36
+area responsible for conscious decisions dramatically decreases during performance. Simultaneously older brain
+18:44
+structures take over. The expert is no longer doing the skill. The skill is expressing itself through him.
+18:50
+Neurologically, it's as if the person and the skill become one and the same. Chapter 7. The Nameless Master. Years
+18:58
+later, Yamato was no longer the village boy with an impossible dream. He had become a respected samurai. But more
+19:05
+than that, he had become a master. Young men came from distant villages asking to
+19:11
+be his students, and they always asked the same question. Master, how many techniques do you know? Yamato always
+19:18
+replied, none and all. This confused the students. They wanted numbers. They wanted lists. They wanted
+19:25
+to know exactly what they were going to learn. But Yamato had understood something that can only be understood
+19:31
+after completely traversing Shuhari. Techniques are just fingers pointing to the moon. Most people are so obsessed
+19:38
+with their fingers that they never look where they're pointing. One day, a particularly arrogant young man
+19:44
+challenged him. Master, with all due respect, you say you don't know any techniques, but my old instructor knows
+19:50
+500 techniques. How can you be better than him? Yamato picked up a wooden sword. Attack me with any of these 500
+19:58
+techniques. The young man chose his best move, a complex attack he had practiced
+20:03
+for years. Yamato didn't even seem to move much, just a slight adjustment of
+20:08
+stance, a slight change of angle, and the young man was on the ground, weaponless, unable to understand how it
+20:15
+had happened. "You used a technique against me just now," Yamato explained, helping the young man to his feet. "A
+20:23
+specific technique with a name that you've practiced thousands of times. It's good. It works in most situations."
+20:32
+But I didn't use any technique against you. My body simply responded to your movement in the only way that particular
+20:38
+moment required. It wasn't technique A, B, or C. It was the perfect response to
+20:44
+that unique moment that had never existed before and will never exist again. That's the difference between
+20:50
+knowing 500 techniques and having zero techniques. You're limited to the 500
+20:56
+options. You know, I have infinite options because I'm not choosing between memorized techniques. I'm creating the
+21:02
+right answer on the fly. Chapter 8. The universal way Yamato's story isn't just
+21:08
+about swords and samurai. It's about anything you want to master in life. Do you want to learn guitar? Shuhari is the
+21:16
+way to go. Shu, you copy songs note fornotee exactly as they were recorded.
+21:21
+You don't improvise. You don't add your own touch. You just imitate until the patterns sink into your fingers without
+21:27
+thinking. Huh? You begin to combine elements of different songs, understand
+21:33
+music theory, and see the principles behind the techniques. Re. You pick up
+21:39
+the guitar and the music simply flows. You're no longer playing music. You've become music. Do you want to master
+21:46
+programming? Shuhari. Shu. You copy code from experienced developers line by
+21:51
+line. You follow established patterns without question. You build solid foundations. Ha. You begin to understand
+21:59
+the wise behind each pattern to combine different approaches to adapt solutions.
+22:05
+Rei you no longer write code consciously. You see a problem and the
+22:10
+solution manifests itself through your fingers. Language disappears. Only pure
+22:16
+logic remains. Do you want to build a business? Shuhari. Shu. You study and
+22:22
+replicate business models that work. You don't try to reinvent the wheel. You learn from those who have already done
+22:28
+it. Ha. You begin to adapt these models to your specific niche. To see universal
+22:34
+business principles that transcend industries. Re you no longer follow models. You intuitively know what will
+22:42
+work as if your body reads the market the way a master reads an opponent. The path is always the same. Shuhari is not
+22:50
+an ancient Japanese philosophy. It is the framework for how deep learning happens in any domain. But there's
+22:56
+something no one tells you about Shuhari. Something that's the real reason most people never achieve mastery
+23:02
+in anything. Chapter nine. The trap of the modern generation. The burning truth
+23:08
+is this. Most people today will never experience true mastery in anything because they refuse to go through shu.
+23:15
+Think about it. How many times have you heard someone say, "I don't like following rules. I prefer to find my own
+23:21
+way. I'm more creative when I do it my way." That sounds good, right? It sounds like independence, like original
+23:28
+thinking, like creativity. But it's a lie. It's your ego protecting you from the uncomfortable truth. You don't want
+23:35
+to find your own path. You want to avoid the hard work of mastering someone else's first. Yamato could have said the
+23:42
+same thing. Master, why do I need to copy you exactly? Why can't I develop my
+23:47
+own style from scratch? I'm a unique individual. And if he had done that, he
+23:52
+wouldn't have become a samurai. He would have been just another villager who thought he was too special to learn the
+23:58
+right way. The modern generation has been convinced of a toxic lie that you
+24:04
+should skip fundamentals and go straight to self-expression. That following a master is for the
+24:09
+uncreative, that copying is for the weak. And the result, an entire
+24:15
+generation of people who know a little about everything and nothing about anything. People who start 47 hobbies
+24:21
+and master none of them. People who say, "I tried to learn guitar, but it wasn't for me." When in reality, they simply
+24:28
+didn't have the patience to go through the shoe stage. Let me be brutally honest with you. No frrills, no
+24:34
+storytelling, just the pure truth. The reason you haven't yet mastered that skill you say you want to master isn't a
+24:40
+lack of talent. It's not a lack of time. It's not a lack of resources. It's because you're trying to get started in
+24:47
+ha or without doing shu. You want the results of mastery without paying the
+24:52
+price of obsessive repetition. You want to play like a virtuoso, but you don't want to spend 6 months playing scales.
+24:59
+You want to program like a pro, but you don't want to spend a year copying code from better programmers. You want to
+25:05
+build an 8 figureure business, but you don't want to spend 2 years studying business models that have already worked. You want to skip shoe because
+25:12
+it's boring. Because it's humiliating to admit you know nothing and have to copy someone else exactly. Because our
+25:20
+generation has sold us the lie that we are special and unique and don't need to follow the path every master before us
+25:26
+has followed. And as long as we continue to believe this lie, we will continue to be mediocre in everything we touch. The
+25:34
+truth that burns. There is no shortcut. Never has been, never will be. Zen monks
+25:40
+knew this 800 years ago. Samurai knew this 400 years ago. Every true master in
+25:46
+any domain knows this. There is only one path. Shuhari. So here's what you need
+25:51
+to do. Not tomorrow. Not on Monday. Now. First, choose one skill, not three, not
+25:58
+five. One, the skill that if you mastered it in the next 3 years would
+26:03
+completely change your life. Second, find someone who has already mastered
+26:08
+this skill. They don't have to be the best in the world. They need to be 10 times better than you. Find that person.
+26:16
+If you don't know anyone who can help you personally, look for an expert online, but choose just one to follow
+26:22
+their teachings. Third, enter the shoe stage with complete humility. You will
+26:28
+copy this person with obsessive precision. No adaptations, no my way, no
+26:34
+creativity, just perfect imitation. Will it be boring? Yes. Will it feel like
+26:41
+you've lost your identity? Yes. Will other people judge you and say you're being robotic? Yes. Great. That means
+26:49
+you're doing it right. Fourth, once shoe is complete and you'll know when it's complete because the techniques will
+26:56
+flow without thought. Then you enter ha. Study other approaches. Combine
+27:01
+techniques. Adapt. Create variations. Question the wise. Fifth. Continue for
+27:08
+years. Not months, years. This isn't a six-month phase. It's a developmental
+27:14
+stage that can last much longer. Keep practicing, experimenting, integrating.
+27:20
+Sixth. One day without realizing it, you'll be in ry. You'll execute your skill without thinking. You'll create
+27:27
+solutions you've never seen before. You'll transcend techniques. And on that day, you'll understand that the journey
+27:33
+never ends. You'll return to the basics, but with completely new eyes. An Oxford
+27:39
+University researcher who has been studying expertise development for 25 years conducted a study of 500 masters
+27:46
+in different domains, music, sports, programming, martial arts, business. The
+27:52
+finding was unanimous. Every worldclass expert we studied followed the same
+27:58
+three-stage pattern. First, a phase of rigorous imitation lasting between 1 to 3 years. Second, a phase of
+28:05
+experimentation and combination lasting between 3 to 7 years. Third, a phase of
+28:11
+intuition and innovation that marks true mastery. We found not a single exception. No master skipped the first
+28:18
+stage, even those called natural prodigies. The difference was only the speed with which they traversed each
+28:23
+stage, never the sequence. Chapter 10. Yamato's legacy. Yamato lived to be 87.
+28:31
+He trained hundreds of students during his lifetime. And on his last day, when he was surrounded by his most advanced
+28:37
+students, one of them asked, "Master, what was your greatest regret on your
+28:42
+journey?" Himato thought for a long moment. Then he said, "My only regret is not starting
+28:49
+shoe sooner. I wasted an entire year trying to teach myself, thinking I was smart enough to find a better way. If I
+28:56
+had started with a master from day one, I would have mastered the sword a year sooner. And an extra year of mastery is
+29:03
+a treasure no amount of gold can buy." "To all of you," he continued, looking each student in the eye, "don't make my
+29:10
+mistake. If you want to master something, find someone who has already mastered it and copy that person without
+29:16
+shame, without ego, without rushing to add your own personal touch. Mastery
+29:21
+isn't about being original from day one. It's about becoming so deeply skilled that originality becomes inevitable.
+29:28
+These were his last words about the path. And 3 days later, he died peacefully, knowing he had passed on the
+29:34
+most important teaching he had ever received. The path doesn't end. It just transforms.
+29:41
+And here's something very few people realize. You think Shuhari is about learning skills, but it's not. Shuhari
+29:47
+is about who you become in the process of learning. The person you are today, impatient, jumping from one thing to
+29:54
+another, wanting results without process, that person will never experience true mastery. But there's
+30:01
+another version of you. A version that has the patience to copy perfectly. That
+30:06
+has the humility to admit it knows nothing. That has the discipline to practice the same thing a thousand
+30:11
+times. That has the wisdom to understand that the long road is the fast road.
+30:17
+This version of you already exists, waiting for you to stop looking for shortcuts, waiting for you to accept the
+30:24
+only path that works. Shuhari isn't just an ancient Japanese learning method.
+30:29
+It's a mirror. And what you see when you look into that mirror tells you everything about who you'll be in 5
+30:35
+years. Do you see someone willing to start as a complete beginner without ego, without rushing? Or do you see
+30:41
+someone still looking for the hack, the shortcut, the way to avoid the work? Because only one of these people will
+30:48
+truly master something. And you know which one it is. The question is not
+30:53
+does the Shuhari system work. The question is, are you willing to pay the price that mastery demands? Yamato was
+31:00
+just a village boy. No special talent, no noble lineage, no advantages. The
+31:05
+only thing he had was a willingness to obey completely before questioning, to imitate perfectly before innovating, to
+31:12
+master the basics before seeking the advanced. And this transformed him from a nobody into a master whose name was
+31:19
+remembered for centuries. You have the same choice he had. The same path is
+31:24
+open to you. Do you want to spend the next 5 years trying to find a better way that doesn't exist and 5 years from now
+31:31
+be exactly where you are today, knowing a little about a lot of things and nothing about anything? Or would you
+31:37
+rather pay the price of mastery and become extraordinary at whatever you set out to do? Mastery is waiting, but it
+31:44
+won't find you. You have to walk to it step by step, repetition by repetition. Shu, then ha, then ry. The path is
+31:51
+ancient. The path is tested. the path works. If this video brought you new
+31:57
+teachings about learning and mastery, I invite you again to subscribe to the channel now and activate the bell so you
+32:04
+don't miss the next content. And tell me in the comments, what's one skill you'll
+32:09
+master using Shuhari? Write it down below. Also, I have another invitation
+32:14
+for you. If you enjoy content related to psychology and philosophy, I'll leave
+32:19
+the link to my new channel in the video description where I'm publishing content on these topics. It's still a very small
+32:26
+channel, but I'm working hard to bring good content there, too. If you've made it this far, thank you very much for
+32:32
+your attention. You're one of the few who are truly willing to learn, and that already separates you from 99% of
+32:39
+people. Now, go ahead and get started. Enter Shu and years from now you'll look
+32:44
+back and won't believe you were the same person. Until the next video and happy journey in your transformation.
